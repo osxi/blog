@@ -49,6 +49,5 @@ group :test do
   gem 'database_cleaner'
   gem 'launchy'
   gem 'selenium-webdriver'
-  gem 'emoji-rspec', path: '/Users/zach/code/emoji-rspec'
   gem 'simplecov', require: false
 end

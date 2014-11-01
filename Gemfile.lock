@@ -1,9 +1,3 @@
-PATH
-  remote: /Users/zach/code/emoji-rspec
-  specs:
-    emoji-rspec (1.0.1)
-      rspec-core (>= 2.10)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -330,7 +324,6 @@ DEPENDENCIES
   database_cleaner
   devise
   devise_invitable
-  emoji-rspec!
   factory_girl_rails
   faker
   figaro (>= 1.0.0.rc1)
