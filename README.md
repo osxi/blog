@@ -2,6 +2,7 @@ Blog
 ================
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[ ![Codeship Status for osxi/blog](https://codeship.io/projects/51c2abd0-43b1-0132-ca1d-760ee71fb47f/status)](https://codeship.io/projects/44730)
 
 This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
 provided by the [RailsApps Project](http://railsapps.github.io/).
